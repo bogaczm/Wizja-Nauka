@@ -17,3 +17,9 @@
 
    https://youtu.be/J9H9F2ZoKbU
 
+5. Klasyfikacja ciągów znaków.
+
+   Wykonana na dwa sposoby, przy pomocy prostych drzew decyzyjnych oraz przy pomocy wytrenowanej sieci CNN. Głównym wyzwaniem była mała liczba danych uczących, dlatego do nauczenia sieci CNN użyto augmentacji danych.
+
+   <img src="Images/Cyfry_1.PNG" width = 300> <img src="Images/Cyfry_2.PNG" width = 300> <img src="Images/Cyfry_3.PNG" width = 300>
+
